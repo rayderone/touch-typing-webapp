@@ -113,7 +113,7 @@ function Quote() {
 
                         if (key === characters[characterIndex]) {
 
-                            document.getElementById('character' + characterIndex).style.backgroundColor = 'green';
+                            document.getElementById('character' + characterIndex).style.backgroundColor = '#22d922';
                             document.getElementById('character' + characterIndex).classList.add('correctCharacter');
 
                         }else {
