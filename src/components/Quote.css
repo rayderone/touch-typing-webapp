@@ -1,0 +1,45 @@
+.Quote {
+    width: 50vw;
+    margin: auto;
+    margin-top: 36vh;
+}
+
+.Quote #quote{
+    border-style: none;
+    width: 100%;
+}
+
+.Quote br {
+    margin: 10px;
+}
+
+.Quote button {
+    margin: 10px;
+    font-size: 30px;
+}
+
+.Quote span {
+    font-size: 30px;
+}
+
+.Quote span #correctCharacter {
+    font-size: 30px;
+}
+
+.Quote span #incorrectCharacter {
+    font-size: 30px;
+}
+
+.Quote span #cursorCharacter {
+    font-size: 30px;
+}
+
+.Quote input {
+    border-style: none;
+    border: none;
+    background-color: white;
+    opacity: 0;
+    width: 0px;
+    height: 0px;
+    margin: 0px;
+}
